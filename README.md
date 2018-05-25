@@ -8,3 +8,4 @@ Write the necessary CSS in the `css/layout.css` file to create classes for the d
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-zhw-shoes-layout' title='ZHW Shoes Layout'>ZHW Shoes Layout</a> on Learn.co and start learning to code for free.</p>
+
